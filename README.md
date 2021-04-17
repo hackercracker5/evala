@@ -1,2 +1,1 @@
-# zadacha-implementacia
-# zadacha-implementacia
+implementacia na queue list  i stack
